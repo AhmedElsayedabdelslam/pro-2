@@ -1,0 +1,170 @@
+body {
+    top: 0;
+    left: 0;
+    margin: 0;
+    background-image: url(../images/yyy.jpg);
+  
+}
+.div1 {
+    top: 0;
+   width: 100%;
+   height:100px;
+   position: relative;
+}
+.sp1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: orange;
+    padding-left: 70px;
+    padding-top: 20px;
+    position: absolute;
+}
+.i1 {
+    font-size: 18px;
+    position: absolute;
+    padding-left: 210px;
+    padding-top: 40px;
+    color: white;
+}
+.ss {
+    margin-left: 300px;
+    list-style: none;
+    position: absolute;
+}
+.ss li {
+    display: inline-block;
+    margin: 20px;
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+}
+.ss li {
+    margin-top: 20px;
+}
+.sec1 ,.div200{
+    margin-left: 900px;
+    margin-top: 30px;
+    width: 190px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid orange;
+    position: absolute;
+}
+.div200 {
+    opacity: 0.1;
+}
+.act {
+    margin-left: 1090px;
+    margin-top: 30px;
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid orange;
+    background-color: orange;
+    position: absolute;
+    color: white;
+    cursor: pointer;
+}
+.bigg {
+   margin-left: 90px;
+   position: relative;
+}
+
+.des {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+}
+.tit1 ,.tit2 ,.tit3 {
+    font-size: 50px;
+}
+.tit1 ,.tit3 {
+    color: white;
+    height: 20px;
+} 
+.tit2 {
+    height: 20px;
+    color: orange;
+}
+.tit4 {
+    color: white;
+    line-height: 40px;
+    font-size: 19px;
+}
+.BT11 {
+    background-color: orange;
+    width: 150px;
+    height: 35px;
+    border: 1px solid orange;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.log {
+    width: 300px;
+    height: 450px;
+    background-color: black;
+    margin-left: 800px;
+    position: absolute;
+    margin-top: 40px;
+    opacity: 0.8;
+    z-index: 3;
+    
+}
+ .ass {
+    width: 300px;
+    height: 450px;
+    /* background-color: black; */
+    margin-left: 800px;
+    position: absolute;
+    margin-top: 40px;
+    z-index: 10;
+} 
+.chr ,.xc {
+    width: 250px;
+    height: 50px;
+    background-color: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.tit44 {
+    padding-top: 10px;
+    font-size: 25px;
+    font-weight: bold;
+    color: orange;
+}
+.pop {
+    margin-top: 50PX;
+    margin-left: 22px;
+    opacity: 0;
+    height: 2px;
+}
+.uk {
+    width: 250px;
+    color: orange;
+}
+.xc {
+    background-color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+.last {
+    text-align: center;
+}
+.tit55 {
+    color: white;
+    font-size: 17px;
+}
+.last a {
+    color: orange;
+}
+.last i {
+color: white;
+display: inline-block;
+font-size: 25px;
+padding: 10px;
+cursor: pointer;
+}
